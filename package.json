@@ -1,5 +1,5 @@
 {
-    "name": "node-red",
+    "name": "node-red-contrib-polywall",
     "version": "4.0.2",
     "description": "Low-code programming for event-driven applications",
     "homepage": "https://nodered.org",
